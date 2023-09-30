@@ -1,7 +1,7 @@
 # CAP5415_PA1_rb
-##Repository for Canny Edge Detection
+## Repository for Canny Edge Detection
 
-###Instructions to run codes:
+### Instructions to run codes:
 
 1. Create virtual environment/ conda environment:
 ```

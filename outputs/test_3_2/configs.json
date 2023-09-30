@@ -1,0 +1,1 @@
+{"run_name": "test_3_2", "input_img": "assets/42049.jpg", "GT": "assets/119082_gt.jpg", "size": 5, "sigma": 1.0, "thresh_low": 0.1, "thresh_mid": 0.4, "thresh_high": 0.3, "thresh_conn": 8}

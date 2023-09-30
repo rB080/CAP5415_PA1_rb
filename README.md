@@ -1,4 +1,4 @@
-# CAP5415_PA1_rb
+# Canny Edge Detection
 ## Repository for Canny Edge Detection
 
 ### Instructions to run codes:
